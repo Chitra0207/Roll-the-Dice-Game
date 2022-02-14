@@ -168,3 +168,25 @@ main {
 .hidden {
   display: none;
 }
+
+.card {
+  /* align-items: center; */
+}
+.instruction-ul {
+  font-size: 1.5rem;
+  text-align: left;
+}
+.heading-instruction {
+  text-align: center;
+  align-items: center;
+  margin-left: 124px;
+  font-weight: bold;
+  margin-top: 13px;
+}
+.features-icon {
+  width: 50px;
+  height: 50px;
+}
+.card-body {
+  margin-left: 1.2rem;
+}
